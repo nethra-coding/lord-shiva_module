@@ -2,7 +2,7 @@
   <head> Python Module </head>
   <br>
   <br>
-  <a target="_blank" href="https://twitter.com/intent/tweet?text=&url=https://github.com/nethra-coding/Lord-Shiva.git&hashtags= module,%20python,%20libraries,%20github" title="Share on Twitter"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
+  <a target="_blank" href="https://twitter.com/intent/tweet?&url=https://github.com/nethra-coding/Lord-Shiva.git&hashtags= module,%20python,%20libraries,%20github" title="Share on Twitter"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
   <a target="_blank" href="https://github.com/nethra-coding/Lord-Shiva.git" title="view on GITHUB"><img src="https://img.shields.io/badge/github-view%20on%20GITHUB-yellow"></a>
   <a target="_blank" href="https://pypi.org/project/Lord-Shiva/" title="PYPI.org"><img src="https://img.shields.io/badge/PYPI-MODULE-orange"></a>
   <br>
