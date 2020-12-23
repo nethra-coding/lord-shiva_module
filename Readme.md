@@ -1,5 +1,5 @@
 <P align=center>
-  <head>  <IMG SRC="lord-shiva logo.png" ALT="LORD SHIVA" WIDTH=600 HEIGHT=400>
+ <head><IMG SRC="lord-shiva logo.png" ALT="LORD SHIVA" WIDTH=200 HEIGHT=200>
     <br>
     <h1> PYTHON MODULE </h1>
   
