@@ -1,5 +1,9 @@
 <P align=center>
-  <head> Python Module </head>
+  <head>  <IMG SRC="lord-shiva logo.png" ALT="LORD SHIVA" WIDTH=600 HEIGHT=400>
+    <br>
+    <h1> PYTHON MODULE </h1>
+  
+  </head>
   <br>
   <br>
   <a target="_blank" href="https://twitter.com/intent/tweet?&url=https://github.com/nethra-coding/Lord-Shiva.git&hashtags= module,%20python,%20libraries,%20github" title="Share on Twitter"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
